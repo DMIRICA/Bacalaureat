@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="SpecializareLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="NumeLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="PrenumeLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="InitTataLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="TitleLabel" min="-2" pref="375" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="JudetCB" min="-2" pref="151" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="ProbaDLabel" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="NationalitateLabel" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="LbModernaLabel" alignment="0" min="-2" pref="79" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="DataNasteriiLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="AbsolvireLabel" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="38" pref="38" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="NationalitateTextField" min="-2" pref="151" max="-2" attributes="0"/>
+                                          <Component id="AbsolvireTextField" min="-2" pref="151" max="-2" attributes="0"/>
+                                          <Component id="DateChooser" min="-2" pref="172" max="-2" attributes="0"/>
+                                          <Component id="ProbaDCB" min="-2" pref="151" max="-2" attributes="0"/>
+                                          <Component id="LbModernaCB" min="-2" pref="151" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="InitTataTextField" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="PrenumeTextField" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="NumeTextField" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="SpecializareCB" alignment="0" pref="151" max="32767" attributes="0"/>
+                                      <Component id="LiceuCB" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="AdaugaButton" min="-2" pref="382" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="79" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="JudetLabel" alignment="0" min="-2" pref="39" max="-2" attributes="0"/>
+                          <Component id="LiceulLabel" alignment="0" min="-2" pref="39" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="TitleLabel" min="-2" pref="32" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="JudetLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JudetCB" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="LbModernaLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="LbModernaCB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LiceulLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="LiceuCB" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ProbaDLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ProbaDCB" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="SpecializareLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="SpecializareCB" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NationalitateTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NationalitateLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="NumeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NumeTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="AbsolvireLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="AbsolvireTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="PrenumeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="PrenumeTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="DataNasteriiLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="DateChooser" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="InitTataLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="InitTataTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Component id="AdaugaButton" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="123" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="TitleLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Adaugare candidati"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="JudetCB">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="0"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JudetCBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JudetLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Judet"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LiceulLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Liceu"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="LiceuCB">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="0"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LiceuCBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="SpecializareLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Specializare"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="SpecializareCB">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="0"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SpecializareCBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="AbsolvireLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="An absolvire"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="AbsolvireTextField">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="AbsolvireTextFieldKeyTyped"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="NumeLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nume"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="NumeTextField">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="PrenumeLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Prenume"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="PrenumeTextField">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="InitTataLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Initiala tata"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="InitTataTextField">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DataNasteriiLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Data nasterii"/>
+      </Properties>
+    </Component>
+    <Component class="com.toedter.calendar.JDateChooser" name="DateChooser">
+      <Properties>
+        <Property name="dateFormatString" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="&quot;yyyy-MM-dd&quot;" type="code"/>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="JTextFieldDateEditor dateEditor = (JTextFieldDateEditor)DateChooser.getComponent(1);&#xa;dateEditor.setHorizontalAlignment(JTextField.CENTER);"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="NationalitateLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nationalitate"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="NationalitateTextField">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LbModernaLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Limba moderna"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="LbModernaCB">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="0"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LbModernaCBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ProbaDLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Optiune proba D"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ProbaDCB">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="0"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ProbaDCBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="AdaugaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adauga"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="AdaugaButtonActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
